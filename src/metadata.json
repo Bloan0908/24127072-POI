@@ -1,0 +1,5 @@
+{
+  "name": "Khám Phá Địa Điểm Việt Nam",
+  "description": "Một ứng dụng bản đồ tương tác cho phép người dùng tìm kiếm một địa điểm ở Việt Nam và khám phá 5 địa điểm thú vị gần đó, được cung cấp bởi Gemini API và OpenStreetMap.",
+  "requestFramePermissions": []
+}
